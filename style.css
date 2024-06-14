@@ -167,7 +167,7 @@ h4 {
 
 .row {
   display: flex;
-gap:30px;
+  gap: 30px;
   z-index: 100;
 }
 
