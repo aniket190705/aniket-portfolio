@@ -369,7 +369,7 @@ footer {
 
   .projects {
     max-width: 475px;
-    margin: 0, auto;
+    margin: 0 auto;
   }
 
   .img {
@@ -381,8 +381,8 @@ footer {
   }
 
   .feature {
-    max-width: 370px;
-    margin: 0;
+    max-width: 360px;
+    margin: 0 auto;
     /* padding: 20px; */
   }
 
