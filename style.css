@@ -373,7 +373,8 @@ footer {
   }
 
   .img {
-    max-width: 375px;
+    width: 100%;
+    /* max-width: 375px; */
     grid-template-columns: repeat(1, 1fr);
     grid-template-rows: repeat(9, 1fr);
     gap: 10px;
